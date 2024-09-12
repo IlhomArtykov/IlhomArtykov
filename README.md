@@ -1,5 +1,5 @@
 ## Hi there!👋
-### My name is Ilhom Artykov, I'm Software QA Automation Engineer from New York, US 💻 🌐   Glad to see you here!
+### My name is Ilhom Artykov, I'm Software QA Automation Engineer from San Francisco, US 💻 🌐   Glad to see you here!
 
 My Instagram Profile: [Instagram](https://www.instagram.com/ilhom_artykov/?hl=en)!
 
