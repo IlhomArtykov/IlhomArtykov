@@ -3,6 +3,8 @@
 
 My Instagram Profile: [Instagram](https://www.instagram.com/ilhom_artykov/?hl=en)!
 
+My Facebook Profile: [Facebook](https://www.facebook.com/profile.php?id=100036120540947)!
+
 #### My LinkedIn profile:<div id="badges">
   <a href=https://www.linkedin.com/in/ilhom-artykov/>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
