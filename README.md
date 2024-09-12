@@ -1,6 +1,8 @@
 ## Hi there!👋
 ### My name is Ilhom Artykov, I'm Software QA Automation Engineer from New York, US 💻 🌐   Glad to see you here!
 
+My Instagram Profile: [Instagram](https://www.instagram.com/ilhom_artykov/?hl=en)!
+
 #### My LinkedIn profile:<div id="badges">
   <a href=https://www.linkedin.com/in/ilhom-artykov/>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
