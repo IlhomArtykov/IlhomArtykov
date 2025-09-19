@@ -1,5 +1,5 @@
 ## Hi there!👋
-### My name is Ilhom Artykov, I'm Software Salesforce developer from Concord CA, US 💻 🌐   Glad to see you here!
+### My name is Ilhom Artykov, I'm Salesforce developer from Concord CA, US 💻 🌐   Glad to see you here!
 
 My Instagram Profile: [Instagram](https://www.instagram.com/ilhom_artykov/?hl=en)!
 
