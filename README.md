@@ -1,5 +1,5 @@
 ## Hi there!👋
-### My name is Ilhom Artykov, I'm Senior Salesforce developer from Brooklyn NY, US 💻 🌐   Glad to see you here!
+### My name is Ilhom Artyk, I'm Senior Salesforce developer from Brooklyn NY, US 💻 🌐   Glad to see you here!
 
 My Instagram Profile: [Instagram](https://www.instagram.com/ilhom_artykov/?hl=en)!
 
